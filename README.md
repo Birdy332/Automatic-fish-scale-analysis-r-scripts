@@ -5,6 +5,8 @@ This repository contains all R scripts used for data analysis, visualization, an
 **"Automatic fish scale analysis: age determination, annuli and circuli detection, length and weight back-calculation of coregonid scales"**  
 Vogelmann et al., 2025 (in review)
 
+The full dataset and executable core algorithm are archived at Figshare:  
+https://doi.org/10.6084/m9.figshare.29467970
 ---
 
 ##  Included Scripts
