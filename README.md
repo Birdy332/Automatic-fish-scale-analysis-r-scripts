@@ -5,8 +5,6 @@ This repository contains all R scripts used for data analysis, visualization, an
 **"Automatic fish scale analysis: age determination, annuli and circuli detection, length and weight back-calculation of coregonid scales"**  
 Vogelmann et al., 2025 (in review)
 
-The full dataset and executable core algorithm are archived at Figshare:  
-https://doi.org/10.6084/m9.figshare.29467970
 ---
 
 ##  Included Scripts
@@ -49,7 +47,7 @@ https://doi.org/10.6084/m9.figshare.29467970
 ##  Datasets
 
 All required `.csv` input files can be downloaded from the related Figshare dataset:  
- https://doi.org/YOUR_DOI_HERE
+https://doi.org/10.6084/m9.figshare.29467970
 
 ---
 
@@ -73,3 +71,10 @@ LMU München
 ##  Citation
 
 Vogelmann et al. (2025). _Automatic fish scale analysis: age determination, annuli and circuli detection, length and weight back-calculation of coregonid scales_. *Ecological Informatics*, [in review].
+
+##  License
+
+- All **R scripts** in this repository are provided under the [MIT License](LICENSE).
+- All **data files** used in the scripts are archived on Figshare under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/):  
+  https://doi.org/YOUR_DOI_HERE
+- The **Coregon Analyzer** software (including GUI and pre-/post-processing routines) is _not_ open source. It is available **upon request** from the authors under a research-use license.
