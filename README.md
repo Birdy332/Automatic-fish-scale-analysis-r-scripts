@@ -74,7 +74,8 @@ Vogelmann et al. (2025). _Automatic fish scale analysis: age determination, annu
 
 ##  License
 
-- All **R scripts** in this repository are provided under the [MIT License](LICENSE).
-- All **data files** used in the scripts are archived on Figshare under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/):  
-  https://doi.org/YOUR_DOI_HERE
-- The **Coregon Analyzer** software (including GUI and pre-/post-processing routines) is _not_ open source. It is available **upon request** from the authors under a research-use license.
+- All **R scripts** in this repository are licensed under the [MIT License](LICENSE).
+- All associated **data files** are archived on Figshare under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/):  
+  https://doi.org/10.6084/m9.figshare.29467970
+- The full executable for automated scale analysis (`Algorithm.py`) is provided via Figshare.  
+  The complete program (with interface) is available upon request from the authors.
